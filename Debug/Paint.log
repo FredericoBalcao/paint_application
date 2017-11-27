@@ -1,0 +1,25 @@
+﻿Build started 03/02/2017 13:16:41.
+     1>Project "F:\Engª.Informatica\2.ano\1ºsemestre\Computação Gráfica\2016-17\TrabalhosPráticos\a15307_Paint\Paint\Paint\Paint.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_NO_SECURE_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Figura.cpp
+         Figura.cpp
+     1>c:\program files\microsoft visual studio 14.0\vc\include\gl\gl.h(30): warning C4068: unknown pragma
+     1>c:\program files\microsoft visual studio 14.0\vc\include\gl\gl.h(1589): warning C4068: unknown pragma
+     1>c:\program files\microsoft visual studio 14.0\vc\include\gl\glu.h(25): warning C4068: unknown pragma
+     1>c:\program files\microsoft visual studio 14.0\vc\include\gl\glu.h(44): warning C4068: unknown pragma
+     1>c:\program files\microsoft visual studio 14.0\vc\include\gl\glu.h(46): warning C4068: unknown pragma
+     1>c:\program files\microsoft visual studio 14.0\vc\include\gl\glu.h(263): warning C4068: unknown pragma
+     1>f:\engª.informatica\2.ano\1ºsemestre\computação gráfica\2016-17\trabalhospráticos\a15307_paint\paint\paint\figura.cpp(382): warning C4101: 'distancia': unreferenced local variable
+     1>f:\engª.informatica\2.ano\1ºsemestre\computação gráfica\2016-17\trabalhospráticos\a15307_paint\paint\paint\figura.cpp(568): warning C4101: 'dis_x3': unreferenced local variable
+     1>f:\engª.informatica\2.ano\1ºsemestre\computação gráfica\2016-17\trabalhospráticos\a15307_paint\paint\paint\figura.cpp(568): warning C4101: 'dis_y3': unreferenced local variable
+       Link:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Engª.Informatica\2.ano\1ºsemestre\Computação Gráfica\2016-17\TrabalhosPráticos\a15307_Paint\Paint\Debug\Paint.exe" /INCREMENTAL /NOLOGO /LIBPATH:opengl.lib /LIBPATH:opengl32.lib /LIBPATH:glu32.lib opengl32.lib opengl.lib glut32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\Engª.Informatica\2.ano\1ºsemestre\Computação Gráfica\2016-17\TrabalhosPráticos\a15307_Paint\Paint\Debug\Paint.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Engª.Informatica\2.ano\1ºsemestre\Computação Gráfica\2016-17\TrabalhosPráticos\a15307_Paint\Paint\Debug\Paint.lib" /MACHINE:X86 Debug\Cor.obj
+         Debug\Figura.obj
+         Debug\Paint.obj
+         Debug\Ponto.obj
+         Paint.vcxproj -> F:\Engª.Informatica\2.ano\1ºsemestre\Computação Gráfica\2016-17\TrabalhosPráticos\a15307_Paint\Paint\Debug\Paint.exe
+     1>Done Building Project "F:\Engª.Informatica\2.ano\1ºsemestre\Computação Gráfica\2016-17\TrabalhosPráticos\a15307_Paint\Paint\Paint\Paint.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.36
